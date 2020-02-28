@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929464915462",
+    "firebase_url": "https://bmtc-c551b.firebaseio.com",
+    "project_id": "bmtc-c551b",
+    "storage_bucket": "bmtc-c551b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929464915462:android:c3210ac4b0cf1e12aa9587",
+        "android_client_info": {
+          "package_name": "com.example.android.bmtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929464915462-cleipcc67lip4ldl8i6fd4jq3bsj08nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.bmtc",
+            "certificate_hash": "b7db8afce349dedf9a2df7083ce4b974c2bf0fcc"
+          }
+        },
+        {
+          "client_id": "929464915462-6m3nakrej9rjnfjec5vpe99i279rn5cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbooIdnKo_krdSJkzERhfzCtC08zg-Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929464915462-6m3nakrej9rjnfjec5vpe99i279rn5cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
